@@ -2,6 +2,7 @@
 import os
 import shutil
 import sys
+
 from docplex.cp.config import set_default, get_default, LOCAL_CONTEXT
 
 DEFAULT_STUDENT_PARAMETERS = {
